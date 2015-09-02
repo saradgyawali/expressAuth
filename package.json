@@ -1,0 +1,11 @@
+{
+  "name": "expressauth",
+  "version": "1.0.0",
+  "description": "Auth in Express Learning Objectives Implement a password authentication strategy in Express Leverage a session to maintain logged-in state for users Create routes for managing user sessions Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
